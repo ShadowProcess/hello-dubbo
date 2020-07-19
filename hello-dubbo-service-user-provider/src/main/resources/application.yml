@@ -1,0 +1,49 @@
+spring:
+  application:
+    name: hello-dubbo-service-user-provider
+
+user:
+  service:
+    version: 1.0.0
+
+dubbo:
+  scan:
+    basePackages: com.funtl.hello.dubbo.service.user.provider.api
+  application:
+    id: hello-dubbo-service-user-provider
+    name: hello-dubbo-service-user-provider
+    qos-enable: true
+    qos-port: 22222
+  protocol:
+    port: 12345
+    id: dubbo
+    name: dubbo
+    status: server
+    serialization: kryo #指定序列化方式
+  registry:
+    id: zookeeper
+    address: zookeeper://192.168.1.121:2181?backup=192.168.1.122:2182,192.168.1.123:2183  #zookeeper集群
+  provider:
+    loadbalance: roundrobin  #负载均衡策略
+
+###Dubbo״健康检查
+management:
+  endpoint:
+    dubbo:
+      enable: true
+    dubbo-shutdown:
+      enable: true
+    dubbo-configs:
+      enable: true
+    dubbo-services:
+      enable: true
+    dubbo-references:
+      enable: true
+    dubbo-properties:
+      enable: true
+    #Dubbo Health
+    health:
+      dubbo:
+        status:
+          defaults: memory
+          extras: load,threadpool

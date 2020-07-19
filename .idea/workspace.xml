@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="875ea4f1-563a-4b21-a66c-1c4413dd640d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-dubbo-service-user-provider/src/test/java/com/funtl/hello/dubbo/service/user/provider/ZHESHI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-dubbo-service-user-consumer/src/main/java/com/funtl/hello/dubbo/service/user/consumer/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello-dubbo-service-user-consumer/src/main/java/com/funtl/hello/dubbo/service/user/consumer/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-dubbo-service-user-consumer/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/hello-dubbo-service-user-consumer/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JavaFXApplication" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m -Dmaven.multiModuleProjectDirectory=$MAVEN_HOME -Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true -Dmaven.wagon.http.ssl.ignore.validity.dates=true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bW9CyahbLgdH5ecSws1AfuhIF6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.HelloDubboServiceUserConsumerApplication">
+    <configuration name="HelloDubboServiceUserConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hello-dubbo-service-user-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.funtl.hello.dubbo.service.user.consumer.HelloDubboServiceUserConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloDubboServiceUserProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hello-dubbo-service-user-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.funtl.hello.dubbo.service.user.provider.HelloDubboServiceUserProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="875ea4f1-563a-4b21-a66c-1c4413dd640d" name="Default Changelist" comment="" />
+      <created>1588736858952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588736858952</updated>
+      <workItem from="1588736860125" duration="4008000" />
+      <workItem from="1588741138794" duration="1417000" />
+      <workItem from="1588745141817" duration="1195000" />
+      <workItem from="1589098263619" duration="1147000" />
+      <workItem from="1590230142251" duration="787000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1590230157222">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824/-1440.-668.1440.860@0.0.1536.824" timestamp="1590230157222" />
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824/-1440.0.1440.860@0.0.1536.824" timestamp="1589098273543" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1590230418567">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824/-1440.-668.1440.860@0.0.1536.824" timestamp="1590230418567" />
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824/-1440.0.1440.860@0.0.1536.824" timestamp="1588745186566" />
+    <state x="449" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1588741140312">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1440.0.1440.860@0.0.1536.824" timestamp="1588741140312" />
+  </component>
+</project>
